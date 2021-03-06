@@ -28,7 +28,7 @@ from bot.modules.connection import connect_button
 
 PM_START_TEXT = """
 *Hello* *{}*
-__Im a simple bot which is designed and build for adding filters in any groups.Hit /help for more information.__\n\n*Note:I WILL WORK IF U MAKE ME ADMIN*\n\n*You must subscribe our channel in order to use me😇*
+__Im a simple bot which is designed and uild for adding filters in any groups.Hit /help for more information.__\n\n*Note:I WILL WORK IF U MAKE ME ADMIN*\n\n*You must subscribe our channel in order to use me😇*
 
 """
 
